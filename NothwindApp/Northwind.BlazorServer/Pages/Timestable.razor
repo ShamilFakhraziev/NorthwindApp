@@ -1,0 +1,21 @@
+﻿
+
+<h3>Timestable</h3>
+
+@if(Value is null)
+{
+    <p>Value is null</p>
+}
+else
+{
+    for(int i = 1;i < 11; i++)
+    {
+        <p>@Value * @i = @(Value*i)</p>
+    }
+}
+
+@code {
+    [Parameter]
+    public int? Value { get; set; }
+
+}

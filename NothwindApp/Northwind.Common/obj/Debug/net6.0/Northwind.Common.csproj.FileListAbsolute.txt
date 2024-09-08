@@ -1,0 +1,11 @@
+C:\Users\Shamil\Desktop\Док шарп\projects\PracticalApps\Northwind.Common\bin\Debug\net6.0\Northwind.Common.deps.json
+C:\Users\Shamil\Desktop\Док шарп\projects\PracticalApps\Northwind.Common\bin\Debug\net6.0\Northwind.Common.dll
+C:\Users\Shamil\Desktop\Док шарп\projects\PracticalApps\Northwind.Common\bin\Debug\net6.0\Northwind.Common.pdb
+C:\Users\Shamil\Desktop\Док шарп\projects\PracticalApps\Northwind.Common\obj\Debug\net6.0\Northwind.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shamil\Desktop\Док шарп\projects\PracticalApps\Northwind.Common\obj\Debug\net6.0\Northwind.Common.AssemblyInfoInputs.cache
+C:\Users\Shamil\Desktop\Док шарп\projects\PracticalApps\Northwind.Common\obj\Debug\net6.0\Northwind.Common.AssemblyInfo.cs
+C:\Users\Shamil\Desktop\Док шарп\projects\PracticalApps\Northwind.Common\obj\Debug\net6.0\Northwind.Common.csproj.CoreCompileInputs.cache
+C:\Users\Shamil\Desktop\Док шарп\projects\PracticalApps\Northwind.Common\obj\Debug\net6.0\Northwind.Common.dll
+C:\Users\Shamil\Desktop\Док шарп\projects\PracticalApps\Northwind.Common\obj\Debug\net6.0\refint\Northwind.Common.dll
+C:\Users\Shamil\Desktop\Док шарп\projects\PracticalApps\Northwind.Common\obj\Debug\net6.0\Northwind.Common.pdb
+C:\Users\Shamil\Desktop\Док шарп\projects\PracticalApps\Northwind.Common\obj\Debug\net6.0\ref\Northwind.Common.dll

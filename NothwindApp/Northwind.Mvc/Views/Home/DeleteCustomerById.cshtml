@@ -1,0 +1,14 @@
+﻿@using Packt.Shared
+@{
+    ViewData["Title"] = "Customer deletion";
+}
+
+<div class="row">
+    <p>Enter Customer Id to delete customer:</p>
+    <form asp-controller="Home" asp-action="DeleteCustomerById" method="post">
+        <div>
+            <input name="id" placeholder="Customer Id" type="text"/>
+        </div>
+        <input type="submit"  />
+    </form>
+</div>

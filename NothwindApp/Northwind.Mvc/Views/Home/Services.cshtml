@@ -1,0 +1,12 @@
+﻿@using Packt.Shared
+@{
+    ViewData["Title"] = "Services";
+}
+
+@if (ViewData["shipr"] != null)
+{
+    Shipper? shipper = ViewData["shipr"] as Shipper;
+    <p class="alert alert-danger">
+        ShipperId: @shipper?.ShipperId, CompanyName: @shipper?.CompanyName, Phone: @shipper?.Phone
+    </p>
+}

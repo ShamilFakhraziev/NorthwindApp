@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "uRPK7ULQwelDZgq6HTRoXKwJgv3Wp9rFW1ezkPMIGps=",
+  "Source": "Northwind.gRPC",
+  "BasePath": "_content/Northwind.gRPC",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,50 @@
+{
+  "Version": 1,
+  "Hash": "Bmsz0boWjIgjiSlGd3hisx+7U505IQycMEJnl9aYFzk=",
+  "Source": "Northwind.Blazor.Customers",
+  "BasePath": "_content/Northwind.Blazor.Customers",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Shamil\\Desktop\\Док шарп\\projects\\PracticalApps\\Northwind.Blazor.Customers\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Northwind.Blazor.Customers.styles.css",
+      "SourceId": "Northwind.Blazor.Customers",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Shamil\\Desktop\\Док шарп\\projects\\PracticalApps\\Northwind.Blazor.Customers\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/Northwind.Blazor.Customers",
+      "RelativePath": "Northwind.Blazor.Customers.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Shamil\\Desktop\\Док шарп\\projects\\PracticalApps\\Northwind.Blazor.Customers\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Northwind.Blazor.Customers.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\Shamil\\Desktop\\Док шарп\\projects\\PracticalApps\\Northwind.Blazor.Customers\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Northwind.Blazor.Customers.bundle.scp.css",
+      "SourceId": "Northwind.Blazor.Customers",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Shamil\\Desktop\\Док шарп\\projects\\PracticalApps\\Northwind.Blazor.Customers\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/Northwind.Blazor.Customers",
+      "RelativePath": "Northwind.Blazor.Customers.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Shamil\\Desktop\\Док шарп\\projects\\PracticalApps\\Northwind.Blazor.Customers\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Northwind.Blazor.Customers.bundle.scp.css"
+    }
+  ]
+}

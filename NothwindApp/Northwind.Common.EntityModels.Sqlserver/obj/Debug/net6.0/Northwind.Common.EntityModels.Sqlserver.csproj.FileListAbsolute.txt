@@ -1,0 +1,14 @@
+C:\Users\Shamil\Desktop\Док шарп\projects\PracticalApps\Northwind.Common.EntityModels.Sqlserver\bin\Debug\net6.0\Northwind.Common.EntityModels.Sqlserver.deps.json
+C:\Users\Shamil\Desktop\Док шарп\projects\PracticalApps\Northwind.Common.EntityModels.Sqlserver\bin\Debug\net6.0\Northwind.Common.EntityModels.Sqlserver.runtimeconfig.json
+C:\Users\Shamil\Desktop\Док шарп\projects\PracticalApps\Northwind.Common.EntityModels.Sqlserver\bin\Debug\net6.0\Northwind.Common.EntityModels.Sqlserver.dll
+C:\Users\Shamil\Desktop\Док шарп\projects\PracticalApps\Northwind.Common.EntityModels.Sqlserver\bin\Debug\net6.0\Northwind.Common.EntityModels.Sqlserver.pdb
+C:\Users\Shamil\Desktop\Док шарп\projects\PracticalApps\Northwind.Common.EntityModels.Sqlserver\obj\Debug\net6.0\Northwind.Common.EntityModels.Sqlserver.csproj.AssemblyReference.cache
+C:\Users\Shamil\Desktop\Док шарп\projects\PracticalApps\Northwind.Common.EntityModels.Sqlserver\obj\Debug\net6.0\Northwind.Common.EntityModels.Sqlserver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shamil\Desktop\Док шарп\projects\PracticalApps\Northwind.Common.EntityModels.Sqlserver\obj\Debug\net6.0\Northwind.Common.EntityModels.Sqlserver.AssemblyInfoInputs.cache
+C:\Users\Shamil\Desktop\Док шарп\projects\PracticalApps\Northwind.Common.EntityModels.Sqlserver\obj\Debug\net6.0\Northwind.Common.EntityModels.Sqlserver.AssemblyInfo.cs
+C:\Users\Shamil\Desktop\Док шарп\projects\PracticalApps\Northwind.Common.EntityModels.Sqlserver\obj\Debug\net6.0\Northwind.Common.EntityModels.Sqlserver.csproj.CoreCompileInputs.cache
+C:\Users\Shamil\Desktop\Док шарп\projects\PracticalApps\Northwind.Common.EntityModels.Sqlserver\obj\Debug\net6.0\Northwind.Common.EntityModels.Sqlserver.dll
+C:\Users\Shamil\Desktop\Док шарп\projects\PracticalApps\Northwind.Common.EntityModels.Sqlserver\obj\Debug\net6.0\refint\Northwind.Common.EntityModels.Sqlserver.dll
+C:\Users\Shamil\Desktop\Док шарп\projects\PracticalApps\Northwind.Common.EntityModels.Sqlserver\obj\Debug\net6.0\Northwind.Common.EntityModels.Sqlserver.pdb
+C:\Users\Shamil\Desktop\Док шарп\projects\PracticalApps\Northwind.Common.EntityModels.Sqlserver\obj\Debug\net6.0\Northwind.Common.EntityModels.Sqlserver.genruntimeconfig.cache
+C:\Users\Shamil\Desktop\Док шарп\projects\PracticalApps\Northwind.Common.EntityModels.Sqlserver\obj\Debug\net6.0\ref\Northwind.Common.EntityModels.Sqlserver.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "s3S81YyNm15giblgueDeM7FeQfXg6b5V3CR5BAVsRyk=",
+  "Source": "Northwind.Razor.Employee",
+  "BasePath": "_content/Northwind.Razor.Employee",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,30 @@
+﻿@page "/customers/getcountries"
+@using Northwind.BlazorWasm.Shared
+@inject HttpClient Http
+
+<PageTitle>Countries</PageTitle>
+
+<h1>Countries</h1>
+
+<p>This component demonstrates Countries</p>
+
+@if (countries == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    @foreach (string c in countries)
+    {
+        <p>@c</p>
+    }
+}
+
+@code {
+    private List<string>? countries;
+
+    protected override async Task OnInitializedAsync()
+    {
+        countries = await Http.GetFromJsonAsync<List<string>>("Customers/GetCountries");
+    }
+}

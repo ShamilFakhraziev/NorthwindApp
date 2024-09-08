@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Northwind.Razor.Employee.props" />
+</Project>

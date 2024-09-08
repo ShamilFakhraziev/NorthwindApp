@@ -1,0 +1,30 @@
+﻿@using Packt.Shared
+@model Packt.Shared.Customer
+@{
+    ViewData["Title"] = "Customer creation";
+}
+
+<div class="row">
+    <p>Enter details for a new customer:</p>
+    <form asp-controller="Home" asp-action="CreateCustomer" method="post">
+        <div>
+            <input asp-for="CustomerId" placeholder="Customer ID" />
+        </div>
+        <div>
+            <input asp-for="CompanyName" placeholder="Company Name" />
+        </div>
+        <div>
+            <input asp-for="ContactName" placeholder="Contact Name" />
+        </div>
+        <div>
+            <input asp-for="ContactTitle" placeholder="Contact Title" />
+        </div>
+        <div>
+            <input asp-for="Address" placeholder="Address" />
+        </div>
+        <div>
+            <input asp-for="City" placeholder="City" />
+        </div>
+        <input type="submit" />
+    </form>
+</div>
